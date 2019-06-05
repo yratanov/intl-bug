@@ -1,0 +1,1 @@
+dayCount: "{count, plural, =1 {1 day} other {# days} =0 {today}}"
